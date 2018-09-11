@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ManualInsertionNavi", "ManualInsertionNavi\ManualInsertionNavi.vbproj", "{AFDB2356-9990-46AA-9567-CE20DB07DCD2}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NaviAnalysisTool", "NaviAnalysisTool\NaviAnalysisTool.vbproj", "{B8F5C1DA-5734-435B-B6B5-C1C103C51F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFDB2356-9990-46AA-9567-CE20DB07DCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDB2356-9990-46AA-9567-CE20DB07DCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDB2356-9990-46AA-9567-CE20DB07DCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDB2356-9990-46AA-9567-CE20DB07DCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8F5C1DA-5734-435B-B6B5-C1C103C51F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8F5C1DA-5734-435B-B6B5-C1C103C51F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8F5C1DA-5734-435B-B6B5-C1C103C51F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8F5C1DA-5734-435B-B6B5-C1C103C51F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {452240D0-F570-4BAB-B1E9-1A90995B4B10}
+	EndGlobalSection
+EndGlobal
